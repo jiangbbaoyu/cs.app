@@ -1,0 +1,7 @@
+/root/CLionProjects/cs.app/cmake-build-debug/CMakeFiles/cs_app.dir
+/root/CLionProjects/cs.app/cmake-build-debug/CMakeFiles/show_bytes.dir
+/root/CLionProjects/cs.app/cmake-build-debug/CMakeFiles/test1.dir
+/root/CLionProjects/cs.app/cmake-build-debug/CMakeFiles/_is_little_enidan.dir
+/root/CLionProjects/cs.app/cmake-build-debug/CMakeFiles/compose_num.dir
+/root/CLionProjects/cs.app/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/CLionProjects/cs.app/cmake-build-debug/CMakeFiles/rebuild_cache.dir

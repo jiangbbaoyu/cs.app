@@ -1,0 +1,13 @@
+# ninja log v5
+1	31	1689392799218211909	CMakeFiles/show_bytes.dir/chapter02/test1.cpp.o	3b6e50cdc9b24438
+0	38	1689406961825734144	CMakeFiles/show_bytes.dir/chapter02/show_bytes.cpp.o	ffb2650603716026
+34	90	1689482475881801057	test1	88576c05af6a2980
+362	459	1689392592093296911	cs_app	1a78d51b713ad570
+0	25	1689845750386579643	CMakeFiles/show_bytes.dir/chapter02/255_show_bytes.cpp.o	2e554f7ff0f24b27
+0	28	1689845972217979049	CMakeFiles/_is_little_enidan.dir/chapter02/258_is_little_enidan.cpp.o	a0351e75a0804cc0
+25	52	1689845750414622787	show_bytes	9fd01721c90f3ec7
+1	34	1689482475825943841	CMakeFiles/test1.dir/chapter02/test1.cpp.o	4883269a99f48ee8
+28	57	1689845972245950376	_is_little_enidan	2367c3cc08bd5b12
+0	362	1689392592001527323	CMakeFiles/cs_app.dir/main.cpp.o	48645d85bb12fbdb
+0	25	1689848184857593923	CMakeFiles/compose_num.dir/chapter02/259_compose_num.cpp.o	f3613615173da48
+26	52	1689848184881559665	compose_num	939fbd4330b455fe

@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cs_app",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_is_little_enidan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_is_little_enidan-Debug-bcd164404811ff75bfbe.json",
+					"name" : "_is_little_enidan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "compose_num::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-compose_num-Debug-b269fba4b3eb57f19741.json",
+					"name" : "compose_num",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cs_app::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cs_app-Debug-a0d2613fcdcf4d93f020.json",
+					"name" : "cs_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "show_bytes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-show_bytes-Debug-a8df7f70517b3f1ceccb.json",
+					"name" : "show_bytes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test1-Debug-33d8620dba8b878c154e.json",
+					"name" : "test1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/CLionProjects/cs.app/cmake-build-debug",
+		"source" : "/root/CLionProjects/cs.app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
