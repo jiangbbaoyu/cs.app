@@ -16,7 +16,7 @@ int leftmost_one(unsigned x){
    * If x = 0, get 0
    */
 
-    x = x | x>>1;
+    x = x | x>>1;  // logical shift left,  padding zero in left
     x = x | x>>2;
     x = x | x>>4;
     x = x | x>>8;
