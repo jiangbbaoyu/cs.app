@@ -1,4 +1,9 @@
 /root/clion-2022.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/root/clion-2022.3.1/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc-11 -DCMAKE_CXX_COMPILER=/usr/bin/g++-11 -G Ninja -S /root/CLionProjects/cs.app -B /root/CLionProjects/cs.app/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /root/CLionProjects/cs.app/cmake-build-debug
+CMake Error at CMakeLists.txt:9 (add_executable):
+  The target name "chapter02/test.cpp" is reserved or not valid for certain
+  CMake features, such as generator expressions, and may result in undefined
+  behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/root/CLionProjects/cs.app/cmake-build-debug/CMakeFiles/CMakeOutput.log".
